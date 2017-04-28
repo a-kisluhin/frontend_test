@@ -1,0 +1,22 @@
+.wrapper {
+  width: 600px;
+  margin: auto;
+  background: #f6f3f5;
+  border: 1px solid;
+}
+hr {
+  width:500px;
+}
+
+.section1{
+	text-align: center;
+} 
+
+.section2,.section3, .section4,.section5 {
+ 
+  width: 50%;
+  margin: 0 50px;
+  background: #f6f3f5;
+  text-align: left;
+  
+}
